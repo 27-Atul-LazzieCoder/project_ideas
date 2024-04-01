@@ -22,7 +22,8 @@ Maintenance and Updates: Regularly maintain and update your application to ensur
 
 Remember to always respect the terms of service and privacy policies of the websites or apps you're extracting data from, and be mindful of any legal or ethical considerations involved in data scraping and integration.
 
-....................................................................................................................
+..........................................................................................................................     
+
 
 what tech stacks could you suggest me to build this type of project
 ChatGPT
